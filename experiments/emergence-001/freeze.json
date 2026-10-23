@@ -1,0 +1,24 @@
+{
+  "baseline_run_ids": [
+    "E001-baseline-001",
+    "E001-baseline-002",
+    "E001-baseline-003",
+    "E001-baseline-004"
+  ],
+  "configuration_hash": "c488355130a25f3b6ed0f5c69e10ca14134ae7389f45390dfabf94607e9bc0f9",
+  "experiment": "EMERGENCE-001",
+  "experiment_version": "0.1",
+  "immutable_inputs": [
+    "genesis.json",
+    "objective.json",
+    "population.json",
+    "capabilities.json",
+    "resources.json",
+    "policies.json",
+    "analysis/analyze.py",
+    "analysis/compare_runs.py"
+  ],
+  "observatory_feedback_to_world": false,
+  "schema": "MOLT/EMERGENCE-001/freeze/0.1",
+  "status": "frozen"
+}
